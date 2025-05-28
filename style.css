@@ -1,4 +1,21 @@
 body {
-    background-color: aqua;
-    color: darkgoldenrod;
+    background-color: #EA872E;
+    color: #GGG;
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+
+h2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+a {
+    font-weight: 300;
+    color: lemonchiffon;
+    text-transform: lowercase;
+}
+
+.profile {
+    width: 160px;
 }
