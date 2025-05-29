@@ -3,6 +3,8 @@ body {
     color: #2E0800;
     font-size: 1.2em;
     font-family: sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 h2 {
@@ -16,6 +18,30 @@ a {
     text-transform: lowercase;
 }
 
+#content {
+    margin-left: 40px;
+}
+
+.preview {
+    width: 180px;
+    margin-top: 15px;
+}
+
 .profile {
-    width: 160px;
+    width: 120px;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    z-index: 1;
+}
+
+footer {
+    background-color: brown;
+    color: antiquewhite;
+    font-size: 13px;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    position: absolute;
+    bottom: 0;
 }
