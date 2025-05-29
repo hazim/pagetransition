@@ -11,7 +11,7 @@ The course page can be found here at [SuperHi](https://www.superhi.com/catalog/s
 
 ## Chapter 02
  - [ ] Canvas Magazine
- [ ] Lessons 01 - 14
+ - [ ] Lessons 01 - 14
 
 ## Chapter 03
  - [ ] Wanderers
