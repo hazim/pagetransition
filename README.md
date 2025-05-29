@@ -1,11 +1,11 @@
 # Page Transition
 
-Course page can be found here at [SuperHi](https://www.superhi.com/catalog/smooth-page-transitions-effects/ava-sherry)
+The course page can be found here at [SuperHi](https://www.superhi.com/catalog/smooth-page-transitions-effects/ava-sherry)
 
 [Github page to preview the project](https://hazim.github.io/pagetransition/)
 
 ## Chapter 01
-[ ] Ava Sherry
+[x] Ava Sherry
 [ ] Lessons 01 - 12
 
 ## Chapter 02
