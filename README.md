@@ -6,7 +6,6 @@ Course page can be found here at [SuperHi](https://www.superhi.com/catalog/smoot
 
 ## Chapter 01
 [ ] Ava Sherry
-
 [ ] Lessons 01 - 12
 
 ## Chapter 02
