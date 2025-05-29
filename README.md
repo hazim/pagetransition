@@ -6,6 +6,7 @@ The course page can be found here at [SuperHi](https://www.superhi.com/catalog/s
 
 ## Chapter 01
 [x] Ava Sherry
+
 [ ] Lessons 01 - 12
 
 ## Chapter 02
